@@ -31,7 +31,7 @@ print("O antecessor de é", valor, "é", antecessor)
  print('' o antecessor de '', valor, ''é'', antecessor)
 
 6) Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo
-7)  altura = inteiro
+  altura = inteiro
    base = inteiro
    area = inteiro
 
