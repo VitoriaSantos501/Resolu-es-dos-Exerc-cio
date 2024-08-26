@@ -42,4 +42,6 @@ inicio
   leia(base)
   area <- altura * base
   escreval("A área do retângulo é: ", area , "m²")
-   
+
+ 7)Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+ Resolução: O algoritmo precisa considerar o número de dias em cada mês e também se o ano é bissexto para calcular a idade total em dias corretamente.
