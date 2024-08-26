@@ -25,4 +25,6 @@ antecessor = valor - 1
 
  Exibindo o antecessor
 print("O antecessor de é", valor, "é", antecessor)
+ resolução: 
+ Valor=int(input(''digite 
 
