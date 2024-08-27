@@ -1,4 +1,4 @@
-# Resolu-es-dos-Exerc-cio
+# Exercicios avancados 
 Questões de programação
 Questão 1 
 
