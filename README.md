@@ -18,17 +18,17 @@ print("Valor de B:", B)
 valor = int(input("Digite um valor: "))
 Calculando o antecessor
 antecessor = valor - 1
- Exibindo o antecessor
+Exibindo o antecessor
 print("O antecessor de é", valor, "é", antecessor)
- resolução: 
- Valor=int(input(''digite algo''))
- antecessor=valor-1
- print('' o antecessor de '', valor, ''é'', antecessor)
+resolução: 
+Valor=int(input(''digite algo''))
+antecessor=valor-1
+print('' o antecessor de '', valor, ''é'', antecessor)
 
 6) Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo
-  altura = inteiro
-   base = inteiro
-   area = inteiro
+ altura = inteiro
+base = inteiro
+area = inteiro
 
 inicio
   escreva("Digite a altura do retângulo: ")
